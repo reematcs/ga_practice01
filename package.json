@@ -1,13 +1,13 @@
 {
-"name": "my_azure_project",
-"version": "1.0.0",
-"description": "This is my first project using GitHub Actions.",
-"scripts": {
-"test": "echo \"Running tests...\" && exit 0", "format": "prettier --write ." # Dummy test script
-# Code formatting with Prettier
-},
-"dependencies": {},
-"devDependencies": {
-"prettier": "^2.3.2" # Prettier for code formatting
-}
+    "name": "my_azure_project",
+    "version": "1.0.0",
+    "description": "This is my first project using GitHub Actions.",
+    "scripts": {
+        "test": "echo \"Running tests...\" && exit 0",
+        "format": "prettier --write ."
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "prettier": "^2.3.2"
+    }
 }
