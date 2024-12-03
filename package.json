@@ -6,7 +6,10 @@
         "test": "echo \"Running tests...\" && exit 0",
         "format": "prettier --write ."
     },
-    "dependencies": {},
+    "dependencies": {
+        "ejs": "^3.1.10",
+        "express": "^4.21.1"
+    },
     "devDependencies": {
         "prettier": "^2.3.2"
     }
